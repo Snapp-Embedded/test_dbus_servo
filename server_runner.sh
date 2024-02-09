@@ -43,4 +43,4 @@ echo
 echo "Everything is set up. Running the Python server script..."
 echo
 
-python3 ./python_server/motor_controller.py
+python3 ./python_server/servo_controller.py
